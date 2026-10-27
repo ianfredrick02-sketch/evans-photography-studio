@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" role="img" aria-label="Demo event placeholder">
+  <rect width="1200" height="1400" fill="#221d1a"/>
+  <rect x="0" y="0" width="1200" height="1400" fill="#d9b77f" opacity="0.68"/>
+  <circle cx="290" cy="360" r="150" fill="#f6e8d9" opacity="0.8"/>
+  <circle cx="820" cy="420" r="180" fill="#f4ece6" opacity="0.7"/>
+  <rect x="240" y="680" width="720" height="360" rx="18" fill="#3d2f2b" opacity="0.68"/>
+  <text x="600" y="1210" text-anchor="middle" fill="#fff" font-size="58" font-family="Arial, sans-serif" letter-spacing="8">EVENTS &amp; CELEBRATIONS</text>
+</svg>

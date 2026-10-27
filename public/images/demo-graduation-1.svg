@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" role="img" aria-label="Demo graduation placeholder">
+  <rect width="1200" height="1400" fill="#151515"/>
+  <rect x="0" y="0" width="1200" height="1400" fill="#d8ba89" opacity="0.6"/>
+  <circle cx="600" cy="360" r="180" fill="#f1e6d8" opacity="0.8"/>
+  <rect x="470" y="560" width="260" height="330" rx="40" fill="#1b1b1b" opacity="0.8"/>
+  <path d="M350 970c130-120 280-180 250-180s120 60 250 180" fill="#f5eee7" opacity="0.8"/>
+  <text x="600" y="1220" text-anchor="middle" fill="#fff" font-size="60" font-family="Arial, sans-serif" letter-spacing="8">GRADUATION</text>
+</svg>
